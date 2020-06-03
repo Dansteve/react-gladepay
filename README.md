@@ -4,7 +4,7 @@ This is a react library for implementing gladepay payment gateway
 
 ## Demo
 
-![Demo](React_App.png?raw=true 'Demo Image')
+![Demo](React_App.png?raw=true "Demo Image")
 
 ## Get Started
 
